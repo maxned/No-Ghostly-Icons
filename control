@@ -1,0 +1,9 @@
+Package: com.MRussian.noghostlyicons
+Name: No Ghostly Icons
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: No ghostly icons when in multitasking mode or when a folder is open. Look at screenshots to see what I mean. There are no options to configure.
+Maintainer: Mr. Russian <mr_russian@rocketmail.com
+Author: Mr. Russian <mr_russian@rocketmail.com>
+Section: Tweaks
